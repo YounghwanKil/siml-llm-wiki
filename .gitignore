@@ -1,0 +1,13 @@
+private/
+.env
+.env.*
+*.pdf
+*.xlsx
+*.xls
+*.hwpx
+*.hwp
+*.png
+*.jpg
+*.zip
+.DS_Store
+__pycache__/

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "siml-publications",
+    "url": "https://siml.kaist.ac.kr/publication/",
+    "visibility": "public",
+    "checked_at": "2026-10-06"
+  },
+  {
+    "id": "siml-home",
+    "url": "https://siml.kaist.ac.kr/",
+    "visibility": "public",
+    "checked_at": "2026-10-06"
+  },
+  {
+    "id": "juho-lee",
+    "url": "https://juho-lee.github.io/",
+    "visibility": "public",
+    "checked_at": "2026-10-06"
+  },
+  {
+    "id": "ser-code",
+    "url": "https://github.com/aitrics-chris/SER",
+    "visibility": "public",
+    "checked_at": "2026-10-06"
+  },
+  {
+    "id": "calibrag-code",
+    "url": "https://github.com/chaeyoon-jang/calibrag",
+    "visibility": "public",
+    "checked_at": "2026-10-06"
+  },
+  {
+    "id": "px-sgmcmc-code",
+    "url": "https://github.com/cs-giung/px-sgmcmc",
+    "visibility": "public",
+    "checked_at": "2026-10-06"
+  },
+  {
+    "id": "l2e-code",
+    "url": "https://github.com/ciao-seohyeon/l2e",
+    "visibility": "public",
+    "checked_at": "2026-10-06"
+  }
+]

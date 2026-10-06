@@ -1,0 +1,10 @@
+{
+  "snapshot_date": "2026-10-06",
+  "files": [
+    {
+      "path": "publications-2026-10-06.json",
+      "sha256": "ee431586978966c55cbc4ee7168d25ca2d3dd9f2b7c8d97679daadde5990c0e5"
+    }
+  ],
+  "scope": "bibliographic metadata only"
+}
